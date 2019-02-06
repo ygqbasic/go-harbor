@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "lrFT/uYIgpf1JMJ8+CfmnWHelrM=",
+			"path": "github.com/moul/http2curl",
+			"revision": "faeffb3553568c6ecaa9c103c09dea941ca9c570",
+			"revisionTime": "2018-12-27T15:39:05Z"
+		},
+		{
+			"checksumSHA1": "V5va3aYpyWGkvV1uO2l7la5kgFc=",
+			"path": "github.com/pkg/errors",
+			"revision": "ffb6e22f01932bf7ac35e0bad9be11f01d1c8685",
+			"revisionTime": "2019-01-09T06:16:28Z"
+		},
+		{
+			"checksumSHA1": "bhX9GCMtACwF4bEFcVFRoHLz7xQ=",
+			"path": "golang.org/x/net/publicsuffix",
+			"revision": "d26f9f9a57f3fab6a695bec0d84433c2c50f8bbf",
+			"revisionTime": "2018-09-25T13:55:50Z"
+		}
+	],
+	"rootPath": "go-harbor"
+}
