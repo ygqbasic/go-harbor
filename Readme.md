@@ -3,7 +3,11 @@
 A Harbor API client enabling Go programs to interact with Harbor in a simple and uniform way
 
 [![GitHub license](https://img.shields.io/github/license/ygqbasic/go-harbor.svg?style=flat)](https://github.com/ygqbasic/go-harbor/blob/master/LICENSE)
-
+![GitHub repo-size](https://img.shields.io/github/repo-size/ygqbasic/go-harbor.svg?style=flat)
+![GitHub release-date](https://img.shields.io/github/release-date-pre/ygqbasic/go-harbor.svg?style=flat)
+![GitHub release-pre](https://img.shields.io/github/release-pre/ygqbasic/go-harbor.svg?style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/ygqbasic/go-harbor.svg?style=flat)
+## 开始
 ## Coverage
 
 This API client package covers most of the existing Harbor API calls and is updated regularly
