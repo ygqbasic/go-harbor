@@ -2,7 +2,7 @@
 
 A Harbor API client enabling Go programs to interact with Harbor in a simple and uniform way
 
-[![GitHub license](https://img.shields.io/github/license/TimeBye/go-harbor.svg)](https://github.com/ygqbasic/go-harbor/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ygqbasic/go-harbor.svg?style=flat)](https://github.com/ygqbasic/go-harbor/blob/master/LICENSE)
 
 ## Coverage
 
