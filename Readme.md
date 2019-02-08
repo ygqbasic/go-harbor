@@ -44,7 +44,7 @@ to list all projects for user "haobor":
 ```go
 harborClient := harbor.NewClient(nil, "url","username","password")
 opt := &ListProjectsOptions{Name: "haobor"}
-projects, _, err := harborClient.Projects.ListProjects(opt)
+projects, _, err := harborClient.Projects.ListProject(opt)
 ```
 
 For complete usage of go-harbor, see the full [package docs](https://godoc.org/github.com/ygqbasic/go-harbor).
