@@ -9,6 +9,7 @@ func TestHarborProject(t *testing.T) {
 	opt := &ListProjectsOptions{Name: "test"}
 
 	projects, _, err := harborClient.Projects.ListProject(opt)
-	t.Log(projects)
-	t.Log(err)
+	if err == nil {
+		t.Log(projects)
+	}
 }
